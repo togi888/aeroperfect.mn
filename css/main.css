@@ -246,10 +246,10 @@ p {
 .land_wrapp *{
   box-sizing: border-box;
 }
-.land_wrapp{
-  max-width: 1920px;
-  margin: 0 auto;
-  font-family: MetronicPro;
+.land_wrapp {
+    max-width: 1920px;
+    margin: 0 auto;
+    font-family: Roboto;
 }
 .slick-dots{
   margin: 0;
